@@ -25,7 +25,7 @@ You will need to have Python and Idle to run the program. They can be downloaded
   
 ![Number of Rounds](https://github.com/danemd/Trivia-Score-Tracker/blob/images/num_rounds_team_add.png)
 
-* Now you will be prompted to enter the scores. Input the appropriate scores for each team, hit *enter* again, and then the team standings will be displayed in descending order.
+* Now you will be prompted to enter the scores. Input the appropriate scores for each team, hit *enter* again, and then the team standings will be displayed in ascending order.
 
 ![Scores](https://github.com/danemd/Trivia-Score-Tracker/blob/images/scores.png)
 
