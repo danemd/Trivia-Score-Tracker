@@ -4,18 +4,20 @@ This is a python program I devised to keep track of trivia scores. It came about
 ### How to Run It ### 
 In order to play you will need to download this file:
 
-[python file]
+[Program File](https://github.com/danemd/Trivia-Score-Tracker/blob/main/triviaScorer2.py)
 
 You will need to have Python and Idle to run the program. They can be downloaded from this page: 
 
-[python download file]
+[Python Download](https://www.python.org/downloads/)
 
 * Open the triviaScorer2 in IDLE and select run (or pres f5). 
   * This will open the program shell and give the following prompt: 
   
-![Teams](https://github.com/danemd/Trivia-Score-Tracker/blob/images/teams.png)
+![Teams](https://github.com/danemd/Trivia-Score-Tracker/blob/images/prompt.png)
 
 * Input the team name then hit *enter*. When you are finished entering teams hit *enter* again. 
+
+![Teams](https://github.com/danemd/Trivia-Score-Tracker/blob/images/teams.png)
 
 ![Number of Rounds](https://github.com/danemd/Trivia-Score-Tracker/blob/images/num_rounds_team_add.png)
 
