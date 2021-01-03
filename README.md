@@ -10,7 +10,7 @@ You will need to have Python and Idle to run the program. They can be downloaded
 
 [Python Download](https://www.python.org/downloads/)
 
-* Open the triviaScorer2 in IDLE and select run (or pres f5). 
+* Open the triviaScorer2 in IDLE and select run (or press f5). 
   * This will open the program shell and give the following prompt: 
   
 ![Prompt](https://github.com/danemd/Trivia-Score-Tracker/blob/images/prompt.png)
@@ -20,7 +20,8 @@ You will need to have Python and Idle to run the program. They can be downloaded
 ![Teams](https://github.com/danemd/Trivia-Score-Tracker/blob/images/teams.png)
 
 * You will be prompted with a number of rounds to play, enter the appropriate number and hit *enter*. 
-  * Following this prompt you will be asked to enter in more teams (this is to catch any latecomers to the game.) If there are none hit *enter* again. 
+  * Following this prompt you will be asked to enter in more teams (this is to catch any latecomers to the game.).
+  * If there are none hit *enter* again. 
   
 ![Number of Rounds](https://github.com/danemd/Trivia-Score-Tracker/blob/images/num_rounds_team_add.png)
 
